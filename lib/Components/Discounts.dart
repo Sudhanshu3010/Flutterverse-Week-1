@@ -52,7 +52,7 @@ class DiscountSection extends StatelessWidget{
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: const [
                     Text(
-                      "50 % Off Upto Rs. 100",
+                      "50% Off Upto Rs. 100",
                       textAlign: TextAlign.left,
                       style: TextStyle(
                         color: Colors.white,
